@@ -39,7 +39,7 @@
        li a {
          display: block;
          color: #f7cacd;
-         text-align: center;
+         text-align: center; 
          padding: 14px 16px;
          text-decoration: none;
        }
