@@ -34,7 +34,7 @@
        
        li {
          float: left;
-       }
+       } 
        
        li a {
          display: block;
