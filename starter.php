@@ -60,7 +60,7 @@
             
 	   $starter = "Hello World";
 
-            echo $starter
+            echo $starter 
         ?>
     </body>
     
