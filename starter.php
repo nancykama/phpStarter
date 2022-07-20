@@ -38,7 +38,7 @@
        
        li a {
          display: block;
-         color: #f7cacd;
+         color: #f7cacd; 
          text-align: center; 
          padding: 14px 16px;
          text-decoration: none;
