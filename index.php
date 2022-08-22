@@ -1,7 +1,9 @@
 <?php  
 
-$starter = "Hello World";    
+$starter = "Hello World"; 
+$rnd = "php is cool";
  
-echo starter
+echo starter;
+echo rnd
            
 ?> 
