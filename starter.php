@@ -55,7 +55,7 @@
     </style>
 
        <h1> Testing PHP embedded in HTML </h1>
-
+ 
         	<?php 
             
 	   $starter = "Hello World";
